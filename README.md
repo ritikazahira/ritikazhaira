@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritika Mishra
-- 👀 I’m interested in AI and Machine Learning..
-- 🌱 I’m currently learning and building upon my coding skills.
-- 🥋byye 😁
+- 👀 I’m interested in AI and Machine Learning.
+- 🌱 Most of my projects are private, dm to collab
+- :)
 
 <!---
 ritikazhaira/ritikazhaira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
