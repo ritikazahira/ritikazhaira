@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritika Mishra
-- 👀 I’m interested in AI and Machine Learning.
-- 🌱 Most of my projects are private, dm to collab
+- 👀 
+- 🌱
 - :)
 
 <!---
